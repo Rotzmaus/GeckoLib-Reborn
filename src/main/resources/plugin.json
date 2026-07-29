@@ -7,8 +7,8 @@
   ],
   "info": {
     "name": "GeckoLib Reborn Plugin (custom controllers)",
-    "version": "7.2.9+controllers.6",
+    "version": "7.3.1+controllers.1",
     "description": "Adds GeckoLib support for NeoForge 1.21.1 (GeckoLib 4.9.2) and NeoForge 26.1.2 (GeckoLib 5.5.2) on MCreator 2026.2. Patched build: animated entities can define extra named animation controllers, optionally additive (real GeckoLib 5 additiveAnimations blending), and the play/stop/get animation blocks target a controller by name.",
-    "author": "CBJaxx (patched)"
+    "author": "CBJaxx"
   }
 }
