@@ -1,3 +1,6 @@
 /.gradle/
 /.idea/
 /build/
+
+# Local backup of the unmodified upstream plugin zip.
+/upstream/
